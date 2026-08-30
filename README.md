@@ -53,10 +53,10 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 <br />
 ~ $ ``` yes | pkg install git ```
 <br />
-~ $ ``` git clone https://github.com/wolfkrypter/YTERMUX-V2.3.12.git ```
+~ $ ``` git clone https://github.com/Zatara2020/ZataraTe ```
 <br />
 
-~ $ ``` cd YTERMUX-V2.3.12 ```
+~ $ ``` cd ZataraTe ```
 <br />
 ~/YTERMUX-V2.3.12 $ ``` chmod +x ytermux ```
 <br />
@@ -65,7 +65,7 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 <p>or</p>
 
 ```bash
-yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg install python && yes | pkg install ffmpeg && pip install yt-dlp && yes | pkg install git && git clone https://github.com/wolfkrypter/YTERMUX-V2.3.12.git && cd YTERMUX-V2.3.12 && chmod +x ytermux && mv ytermux $PATH && echo -e "\n\n\033[1;37m[Instalación de YTERMUX-V2.3.12 completada]\033[0m\n\n"
+yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg install python && yes | pkg install ffmpeg && pip install yt-dlp && yes | pkg install git && git clone https://github.com/Zatara2020/ZataraTe && cd ZataraTe && chmod +x ytermux && mv ytermux $PATH && echo -e "\n\n\033[1;37m[Instalación de YTERMUX-V2.3.12 completada]\033[0m\n\n"
 
 ```
 
